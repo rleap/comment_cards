@@ -1,6 +1,6 @@
 # Comment Cards
 
-https://api.travis-ci.org/rleap/comment_cards.svg?branch=master
+![alt text](https://api.travis-ci.org/rleap/comment_cards.svg?branch=master "")
 
 Very simple React JS App that displays comment cards that can be approved or declined.  Each comment card has a photo icon, author name, date, comment, approve and reject buttons.
 
