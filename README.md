@@ -4,7 +4,7 @@
 
 Very simple React JS App that displays comment cards that can be approved or declined.  Each comment card has a photo icon, author name, date, comment, approve and reject buttons.
 
-Site: https://comment-cards-63b67.firebaseapp.com/
+Site: <a href="https://comment-cards-63b67.firebaseapp.com/" target="_blank" rel="noopener" aria-describedby="new-window-2">Demo Comment Cards <svg class="icon icon--new-window" viewBox="0 0 24 24" focusable="false" aria-hidden="true"> <use xlink:href="#new-window"></use> </svg></a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
